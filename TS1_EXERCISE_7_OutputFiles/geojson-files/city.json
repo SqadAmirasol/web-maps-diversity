@@ -1,0 +1,12 @@
+data = {
+	"city_name" : "Quezon City",
+	"city_random_id": "QC_74",
+	"province_name": "National Capital Region",
+    "province_random_id": "NCR_QC_74",
+    "region_name": "National Capital Region",
+    "region_random_id": "NCR_13",
+    "city_population_2020": 2960048,
+    "city_current_mayor": "Ma. Josefina Belmonte",
+    "estimated_area": 161,
+	"city_point_coordinates":[14.717392033514479, 121.02866548183887]
+}

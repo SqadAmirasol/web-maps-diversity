@@ -1,0 +1,11 @@
+data = {
+	"province_name" : "Pangasinan",
+    "province_random_id": "Pangasinan_55",
+    "region_name": "Ilocos Region",
+    "region_random_id": "Ilocos_01",
+    "province_population_2020": 144577,
+    "capital": "Urdaneta",
+    "current_governor": "Hon. Amado I. Espino III",
+    "estimated_area": 5451,
+	"city_point_coordinates":[15.976704119823358, 120.56928479502643]
+}

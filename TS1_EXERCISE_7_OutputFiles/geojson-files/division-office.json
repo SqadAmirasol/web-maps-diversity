@@ -1,0 +1,8 @@
+data = {
+	"division_name" : "SQAD",
+	"division_random_id": "SQAD_143",
+	"working_hours_range": "8:00am to 5:00pm",
+    "number_of_employees": 20,
+    "office_address": "3rd Floor CVEA Bulding PSA Complex, East Ave Quezon City",
+	"office_point_coordinates":[14.6390459,121.0435016,17]
+}
